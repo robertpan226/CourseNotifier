@@ -1,0 +1,19 @@
+{
+  "name": "coursenotifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-mongo-db": "^2.0.4",
+    "i": "^0.3.6",
+    "nodemailer": "^4.7.0",
+    "uwaterloo-api": "^1.0.2"
+  }
+}
